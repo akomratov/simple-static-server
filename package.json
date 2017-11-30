@@ -1,0 +1,28 @@
+{
+  "name": "simple-static-server",
+  "version": "1.0.0",
+  "description": "Simple static server for runtime files provisioning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akomratov/simple-static-server.git"
+  },
+  "keywords": [
+    "Simple",
+    "static",
+    "http",
+    "server"
+  ],
+  "author": "Anton Komratov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akomratov/simple-static-server/issues"
+  },
+  "homepage": "https://github.com/akomratov/simple-static-server#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
